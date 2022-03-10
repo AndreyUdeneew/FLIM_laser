@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "FLIM_LASR")(type "KiCad")(uri "${KIPRJMOD}/FLIM_LASR.kicad_sym")(options "")(descr ""))
+)
