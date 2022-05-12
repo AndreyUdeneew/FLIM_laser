@@ -1062,7 +1062,7 @@
     (property "Value" "C" (id 1) (at 116.43 50.7999 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (id 2) (at 113.9952 53.34 0)
+    (property "Footprint" "Capacitor_SMD:C_0201_0603Metric" (id 2) (at 113.9952 53.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 113.03 49.53 0)
@@ -1337,11 +1337,11 @@
     (property "Datasheet" "~" (id 3) (at 159.385 45.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "3" (uuid 9c592639-ebe4-4cf4-b1c1-39451191b73e))
-    (pin "5" (uuid 856560ff-5f2b-48e3-a07f-f5876b948b39))
     (pin "1" (uuid d5b0c1ea-73e5-4195-81ca-24fe1c88a46a))
     (pin "2" (uuid 1d8851a8-552a-41a4-b3ed-cdac3861271b))
+    (pin "3" (uuid 9c592639-ebe4-4cf4-b1c1-39451191b73e))
     (pin "4" (uuid 0bd57d76-dd10-45d9-b766-423fd2484263))
+    (pin "5" (uuid 856560ff-5f2b-48e3-a07f-f5876b948b39))
   )
 
   (symbol (lib_id "74xGxx:74LVC1G08") (at 96.52 63.5 0) (unit 1)
@@ -1479,7 +1479,7 @@
       (reference "C4") (unit 1) (value "C_Feedthrough") (footprint "FLIM_laser:YFF18PW0J474M")
     )
     (path "/33d079c5-b69d-484a-9524-49e26447ff55"
-      (reference "C5") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+      (reference "C5") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0201_0603Metric")
     )
     (path "/f65bb85f-8e5f-457b-bfd0-befdbcd4aa86"
       (reference "C6") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
