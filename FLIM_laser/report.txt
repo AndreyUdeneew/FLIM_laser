@@ -1,0 +1,9 @@
+Plotted to 'C:\YandexDisk\_Asper\Circuitry\FLIM_laser\FLIM_laser\FLIM_laser-F_Cu.gbr'.
+Plotted to 'C:\YandexDisk\_Asper\Circuitry\FLIM_laser\FLIM_laser\FLIM_laser-B_Cu.gbr'.
+Plotted to 'C:\YandexDisk\_Asper\Circuitry\FLIM_laser\FLIM_laser\FLIM_laser-F_Silkscreen.gbr'.
+Plotted to 'C:\YandexDisk\_Asper\Circuitry\FLIM_laser\FLIM_laser\FLIM_laser-B_Silkscreen.gbr'.
+Plotted to 'C:\YandexDisk\_Asper\Circuitry\FLIM_laser\FLIM_laser\FLIM_laser-F_Mask.gbr'.
+Plotted to 'C:\YandexDisk\_Asper\Circuitry\FLIM_laser\FLIM_laser\FLIM_laser-B_Mask.gbr'.
+Plotted to 'C:\YandexDisk\_Asper\Circuitry\FLIM_laser\FLIM_laser\FLIM_laser-Edge_Cuts.gbr'.
+Создан файл Gerber Job 'C:\YandexDisk\_Asper\Circuitry\FLIM_laser\FLIM_laser\FLIM_laser-job.gbrjob'.
+Информация: Готово.
